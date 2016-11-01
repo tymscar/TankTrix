@@ -16,7 +16,7 @@ All you have to do is `git clone https://github.com/tymscar/TankTrix`
 One of the main attractions of the game is that it can be easily compiled for any platform of choice thanks to Unity3D.
 I already preconfigured the controls to work with most controllers out there so it is easy to get going after downloading the game.
 If you play on Windows all you need to do is run the `TankTrix\Game\Tanktrix.exe` file.
-If you are not on windows and you want to give it a go, just open up the Unity project found in `TankTrix\Unity5 Project` and compile for your platform of choice.
+If you are not on Windows and you want to give it a go, just open up the Unity project found in `TankTrix\Unity5 Project` and compile for your platform of choice.
 
 # Controls
 
@@ -35,7 +35,7 @@ The player models and any other graphical assets are made in code at runetime (c
 
 # The team
 
-**Being an University project, I worked on it alone**
+**Being a University project, I worked on it alone**
 
 * Tymscar (Oscar Molnar - me)
   * Github: [Tymscar](https://www.github.com/tymscar)
